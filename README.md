@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**taimoor789/taimoor789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+🎓 CS Student @ University of Calgary
+💻 Full-stack developer building production-grade web apps with Next.js, TypeScript, Python
+🔥 Created Forest Fire Risk Predictor (14K+ locations, 52ms API response) & Pitch Park
+🚀 Passionate about engineering and solving real-world problems with code
 
-Here are some ideas to get you started:
+🌐 Socials:
+LinkedIn email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Python Java JavaScript TypeScript AWS Vercel Next JS NumPy
+
+📊 GitHub Stats:
+
+
+
+
+
