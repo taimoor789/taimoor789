@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🎓 CS Student @ University of Calgary <br>💻 Full-stack developer building production-grade web apps with Next.js, TypeScript, Python <br>🔥 Created Forest Fire Risk Predictor (14K+ locations, 52ms API response) & Pitch Park<br>🚀 Passionate about engineering and solving real-world problems with code
+CS Student @ University of Calgary <br>Full-stack developer building production-grade web apps with Next.js, TypeScript, Python <br>Created Forest Fire Risk Predictor (14K+ locations, 52ms API response) & Pitch Park<br>Passionate about engineering and solving real-world problems with code
 
 
 ## 🌐 Socials:
